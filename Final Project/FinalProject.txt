@@ -1,0 +1,33 @@
+Longest period at number 1
+  see LongestConsecutiveRun.ipynb
+  maybe use .shift()
+    you can see whether week1.shift(7) == week2
+Farthest drop from number 1
+Longest running song(s) - weeks in a row
+Songs that have left the top 100 then rejoined
+Shortest running song(s)
+average position on charts
+song on the charts for the most weeks (total)
+
+PLAN
+
+7-7-2020:
+ *answer simple question - song on the charts for the most weeks (total)
+   *group by song
+   *count instances
+   *find song with most instances
+  map out algorithms for all the questions
+ *rewatch seminar
+   *play with code
+ *do three more replit problems
+  
+ 7-8-2020:
+ *work on longest running song(s) - weeks in a row
+ *work on shortest running song(s)
+  do three more replit problems
+  
+7-9-2020:
+  given a song graph the song's position on the charts over the course of it's existence
+  work on longest period at number 1
+  work on farthest drop from number 1
+  do three more replit problems

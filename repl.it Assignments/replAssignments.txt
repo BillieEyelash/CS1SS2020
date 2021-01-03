@@ -1,0 +1,481 @@
+Assignment Name
+Date Due
+Last Activity
+All Submissions
+Export
+1.1. Input/print: Sum of three numbers
+—
+Jun.23.2020
+Completed
+1.2. Input/print: Area of right triangle
+—
+Jun.23.2020
+Completed
+1.3. Input/print: Hello, Harry!
+—
+Jun.23.2020
+Completed
+1.4. Input/print: Previous and next
+—
+Jun.23.2020
+Completed
+1.5. Input/print: Apple sharing
+—
+Jun.23.2020
+Completed
+1.6. Input/print: Hours and minutes
+—
+Jun.23.2020
+Completed
+1.7. Input/print: Two timestamps
+—
+Jun.23.2020
+Completed
+2.1. Numbers: Two digits
+—
+Jun.23.2020
+Completed
+2.2. Numbers: Swap digits
+—
+Jun.23.2020
+Completed
+2.3. Numbers: Last two digits
+—
+Jun.23.2020
+Completed
+2.4. Numbers: Tens digit
+—
+Jun.23.2020
+Completed
+2.5. Numbers: Sum of digits
+—
+Jun.24.2020
+Completed
+2.6. Numbers: Digit after decimal point
+—
+Jun.23.2020
+Completed
+2.7. Numbers: Car route
+—
+Jun.24.2020
+Completed
+2.8. Numbers: Century
+—
+Jun.24.2020
+Completed
+2.9. Numbers: Total cost
+—
+Jun.24.2020
+Completed
+2.A. Numbers: Day of week
+—
+Jun.24.2020
+Completed
+2.B. Numbers: Digital clock
+—
+Jun.24.2020
+Completed
+2.C. Numbers: Clock face
+—
+Jun.24.2020
+Completed
+2.D. Numbers: School desks
+—
+Jun.24.2020
+Completed
+3.1. If/else: Odd or even
+—
+Jun.24.2020
+Completed
+3.2. If/else: Minimum of two numbers
+—
+Jun.24.2020
+Completed
+3.3. If/else: Sign function
+—
+Jun.24.2020
+Completed
+3.4. If/else: Three-digit number
+—
+Jun.24.2020
+Completed
+3.5. If/else: Single positive
+—
+Jun.24.2020
+Completed
+3.6. If/else: Ascending digits
+—
+Jun.25.2020
+Completed
+3.7. If/else: Four-digit palindrome
+—
+Jun.25.2020
+Completed
+3.8. If/else: Minimum of three numbers
+—
+Jun.25.2020
+Completed
+3.9. If/else: Days in month
+—
+Jun.25.2020
+Completed
+3.A. If/else: Equal numbers
+—
+Jun.25.2020
+Completed
+3.B. If/else: Order of outlier
+—
+Jun.25.2020
+Completed
+3.C. If/else: Rook move
+—
+Jun.25.2020
+Completed
+3.D. If/else: Chessboard - black square
+—
+Jun.25.2020
+Completed
+3.E. If/else: Chessboard - same color
+—
+Jun.25.2020
+Completed
+3.F. If/else: King move
+—
+Jun.25.2020
+Completed
+3.G. If/else: Bishop move
+—
+Jun.25.2020
+Completed
+3.H. If/else: Queen move
+—
+Jun.25.2020
+Completed
+3.I. If/else: Knight move
+—
+Jun.25.2020
+Completed
+3.J. If/else: Leap year
+—
+Jun.25.2020
+Completed
+3.K. If/else: Next day
+—
+Jun.25.2020
+Completed
+3.L. If/else: Linear equation
+—
+Jun.25.2020
+Completed
+3.M. If/else: Minimum of five numbers
+—
+Jun.25.2020
+Completed
+3.N. If/else: Vertices of rectangle
+—
+Jun.25.2020
+Completed
+3.O. If/else: Sort three numbers
+—
+Jun.25.2020
+Completed
+4.1. For: Series - 1
+—
+13 days ago
+Completed
+4.2. For: Series - 2
+—
+12 days ago
+Completed
+4.3. For: Sum of ten numbers
+—
+12 days ago
+Completed
+4.4. For: Sum of N numbers
+—
+12 days ago
+Completed
+4.5. For: Sum of cubes
+—
+13 days ago
+Completed
+4.6. For: Factorial
+—
+11 days ago
+Completed
+4.7. For: Number of zeros
+—
+11 days ago
+Completed
+4.8. For: Sum of factorials
+—
+11 days ago
+Completed
+4.9. For: Lost card
+—
+11 days ago
+Completed
+4.A. For: Ladder
+—
+11 days ago
+Completed
+5.1. Strings: Slices
+—
+11 days ago
+Completed
+5.2. Strings: Number of words
+—
+10 days ago
+Completed
+5.3. Strings: Two halves
+—
+10 days ago
+Completed
+5.4. Strings: Swap two words
+—
+13 days ago
+Completed
+5.5. Strings: First and last occurrence
+—
+10 days ago
+Completed
+5.6. Strings: Second occurrence
+—
+10 days ago
+Completed
+5.7. Strings: Remove fragment
+—
+10 days ago
+Completed
+5.8. Strings: Reverse fragment
+—
+10 days ago
+Completed
+5.9. Strings: Replace
+—
+10 days ago
+Completed
+5.A. Strings: Delete character
+—
+10 days ago
+Completed
+5.B. Strings: Replace in fragment
+—
+10 days ago
+Completed
+5.C. Strings: Delete every third character
+—
+10 days ago
+Completed
+6.1. While: List of squares
+—
+9 days ago
+Completed
+6.2. While: Least divisor
+—
+9 days ago
+Completed
+6.3. While: Power of two
+—
+9 days ago
+Completed
+6.4. While: Jogging
+—
+9 days ago
+Completed
+6.5. While: Length of sequence
+—
+9 days ago
+Completed
+6.6. While: Sum of sequence
+—
+9 days ago
+Completed
+6.7. While: Average of sequence
+—
+9 days ago
+Completed
+6.8. While: Maximum of sequence
+—
+9 days ago
+Completed
+6.9. While: Index of maximum
+—
+9 days ago
+Completed
+6.A. While: Number of even elements
+—
+9 days ago
+Completed
+6.B. While: Greater than previous
+—
+9 days ago
+Completed
+6.C. While: Second maximum
+—
+9 days ago
+Completed
+6.D. While: Number of maxima
+—
+9 days ago
+Completed
+6.E. While: Widest fragment
+—
+9 days ago
+Completed
+6.F. While: Fibonacci numbers
+—
+9 days ago
+Completed
+6.G. While: Fibonacci index
+—
+9 days ago
+Completed
+7.1. Lists: Even indices
+—
+8 days ago
+Completed
+7.2. Lists: Even elements
+—
+8 days ago
+Completed
+7.3. Lists: Greater than left neighbor
+—
+8 days ago
+Completed
+7.4. Lists: Same sign neighbors
+—
+8 days ago
+Completed
+7.5. Lists: Greater than neighbors
+—
+8 days ago
+Completed
+7.6. Lists: Number of distinct elements
+—
+8 days ago
+Completed
+7.7. Lists: Swap neighbors
+—
+8 days ago
+Completed
+7.8. Lists: Maximum
+—
+8 days ago
+Completed
+7.9. Lists: Swap min and max
+—
+6 days ago
+Completed
+7.A. Lists: Pairs of equal numbers
+—
+4 days ago
+Completed
+7.B. Lists: Unique elements
+—
+3 days ago
+Completed
+7.C. Lists: Eight queens
+—
+2 days ago
+Completed
+7.D. Lists: Bowling
+—
+3 days ago
+Completed
+8.1. 2D lists: Scale
+—
+a day ago
+Completed
+8.2. 2D lists: Maximum
+—
+2 days ago
+Completed
+8.3. 2D lists: Diagonals
+—
+25 minutes ago
+Draft
+8.4. 2D lists: Triangles
+—
+12 hours ago
+Completed
+8.5. 2D lists: Swap columns
+—
+an hour ago
+Completed
+8.6. 2D lists: Snowflake
+—
+2 days ago
+Completed
+8.7. 2D list: Chessboard
+—
+3 days ago
+Completed
+9.1. Sets: Number of distinct
+—
+5 days ago
+Completed
+9.2. Sets: Number of common
+—
+5 days ago
+Completed
+9.3. Sets: Intersection
+—
+6 days ago
+Completed
+9.4. Sets: Seen before
+—
+6 days ago
+Completed
+9.5. Sets: Guess the number
+—
+5 days ago
+Draft
+A.1. Dicts: Number of occurrences
+—
+7 days ago
+Completed
+A.2. Dicts: Synonyms
+—
+7 days ago
+Completed
+A.3. Dicts: Elections
+—
+7 days ago
+Completed
+A.4. Dicts: Most frequent word
+—
+7 days ago
+Completed
+A.5. Dicts: Access rights
+—
+6 days ago
+Completed
+A.6. Dicts: Countries and cities
+—
+3 minutes ago
+Completed
+A.7. Dicts: Frequency analysis
+—
+Apr.27.2017
+No progress
+A.8. Dicts: English-Latin dictionary
+—
+7 days ago
+Draft
+Averaging - Parsons
+—
+8 days ago
+Completed
+if - else Example
+—
+13 days ago
+Submitted
+Rock-Paper-Scissors
+—
+10 days ago
+Completed
+RPS - 2
+—
+9 days ago
+Completed
